@@ -125,5 +125,5 @@ def main():
         else:
             st.warning("No PDB ID provided for 3D structure.")
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
